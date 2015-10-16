@@ -1,0 +1,3 @@
+[lfs]
+	url = https://git-lfs-test.lsst.codes
+	batch = false
